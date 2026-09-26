@@ -1,0 +1,11 @@
+beam_id,material,section_factor_kn,applied_load_kn,span_m
+B-001,Steel S355,60,17.3,8
+B-002,Concrete C25/30,40,1.0,6
+B-003,Steel S460,60,18.3,8
+B-004,Concrete C25/30,100,2.1,4
+B-005,Steel S355,60,26.4,8
+B-006,Concrete C25/30,40,1.1,4
+B-007,Steel S355,40,10.7,4
+B-008,Steel S460,100,46.3,6
+B-009,Concrete C60/75,100,5.0,8
+B-010,Concrete C25/30,60,1.9,4

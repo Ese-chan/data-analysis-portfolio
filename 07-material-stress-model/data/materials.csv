@@ -1,0 +1,7 @@
+material,type,strength_mpa,strength_kind,density_kg_m3,cost_per_m3
+Steel A36,steel,250,yield,7850,1250
+Steel S355,steel,355,yield,7850,1420
+Steel S460,steel,460,yield,7850,1680
+Concrete C25/30,concrete,25,compressive,2400,180
+Concrete C40/50,concrete,40,compressive,2400,240
+Concrete C60/75,concrete,60,compressive,2400,310

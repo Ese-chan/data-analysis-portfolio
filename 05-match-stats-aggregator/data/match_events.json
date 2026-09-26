@@ -1,0 +1,2589 @@
+{
+  "match_id": "FR-2025-091",
+  "date": "2025-09-14",
+  "competition": "Friendly",
+  "home_team": "Riverside FC",
+  "away_team": "Harbor United",
+  "events": [
+    {
+      "minute": 0,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 0,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "off_target"
+      }
+    },
+    {
+      "minute": 1,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 1,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 1,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 2,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 2,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 2,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 2,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 2,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "off_target"
+      }
+    },
+    {
+      "minute": 3,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 4,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 5,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 5,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 6,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 7,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 8,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 8,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 8,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 8,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 8,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 8,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 8,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 9,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 10,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 10,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 11,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 12,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 12,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "save",
+      "detail": {
+        "outcome": "made"
+      }
+    },
+    {
+      "minute": 12,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 13,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 14,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 15,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 15,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 16,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 17,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 17,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 17,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "save",
+      "detail": {
+        "outcome": "made"
+      }
+    },
+    {
+      "minute": 18,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 18,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "off_target"
+      }
+    },
+    {
+      "minute": 19,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 19,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "off_target"
+      }
+    },
+    {
+      "minute": 20,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 20,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 21,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 21,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 22,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 23,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 23,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 23,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "off_target"
+      }
+    },
+    {
+      "minute": 23,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 23,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 23,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 23,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 23,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 23,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 24,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 25,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 26,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 27,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "off_target"
+      }
+    },
+    {
+      "minute": 28,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 28,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 28,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 29,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 29,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 29,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 29,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 29,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 29,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 30,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 30,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 31,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 31,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 31,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 32,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 33,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 34,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 34,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 34,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 34,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 34,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 35,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 35,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 36,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 36,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 36,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 36,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 36,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 36,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 36,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 37,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 37,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 37,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 38,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 39,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 40,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "off_target"
+      }
+    },
+    {
+      "minute": 40,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 40,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 40,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 40,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 40,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 41,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "off_target"
+      }
+    },
+    {
+      "minute": 41,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 42,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 43,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 43,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 44,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 45,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 45,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "goal",
+      "detail": {}
+    },
+    {
+      "minute": 46,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 47,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 48,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 49,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 50,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 51,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 51,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "goal",
+      "detail": {}
+    },
+    {
+      "minute": 52,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 53,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 53,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 53,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 54,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 54,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 55,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 55,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 56,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 57,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 57,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 57,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 58,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 58,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 58,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 58,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 58,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 58,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 59,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 60,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 61,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 61,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 62,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 62,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 62,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 63,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "save",
+      "detail": {
+        "outcome": "made"
+      }
+    },
+    {
+      "minute": 64,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 64,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 64,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 64,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 64,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 65,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 65,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 66,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 66,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "off_target"
+      }
+    },
+    {
+      "minute": 66,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 67,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 67,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 67,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 68,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 69,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 69,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 69,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 69,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "save",
+      "detail": {
+        "outcome": "made"
+      }
+    },
+    {
+      "minute": 70,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 71,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 72,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 72,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 72,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 72,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 72,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 72,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 72,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 73,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "save",
+      "detail": {
+        "outcome": "made"
+      }
+    },
+    {
+      "minute": 74,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "save",
+      "detail": {
+        "outcome": "made"
+      }
+    },
+    {
+      "minute": 75,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "save",
+      "detail": {
+        "outcome": "made"
+      }
+    },
+    {
+      "minute": 76,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 76,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 76,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 76,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 76,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 76,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 76,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 76,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 76,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 76,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 76,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 77,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 77,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 78,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 78,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 78,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 78,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 78,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 79,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 79,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 79,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 79,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 80,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 81,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 82,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 83,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 84,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 84,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 85,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 85,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 85,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 86,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 86,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 87,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 87,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 87,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 87,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 87,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 88,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 89,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 89,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 89,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 89,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "R. Castellanos",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "off_target"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "off_target"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "foul",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "C. Dubois",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "K. Adeyemi",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "F. Haddad",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "lost"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "M. Okafor",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "corner",
+      "detail": {}
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "on_target"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "D. Kimura",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "J. Novak",
+      "event_type": "tackle",
+      "detail": {
+        "outcome": "won"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "S. Mensah",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "save",
+      "detail": {
+        "outcome": "made"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "A. Petrov",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "L. Bennett",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "G. Lindqvist",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "P. Alvarez",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "complete"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Harbor United",
+      "player": "N. Ito",
+      "event_type": "shot",
+      "detail": {
+        "outcome": "off_target"
+      }
+    },
+    {
+      "minute": 90,
+      "team": "Riverside FC",
+      "player": "T. Silva",
+      "event_type": "pass",
+      "detail": {
+        "outcome": "incomplete"
+      }
+    }
+  ]
+}
