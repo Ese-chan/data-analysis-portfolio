@@ -8,7 +8,7 @@ Each project folder contains its own `README.md` (goal, tasks, hints) and a `gen
 
 | # | Project | Domain | Core skills | Status |
 |---|---------|--------|-------------|--------|
-| 01 | [Local Bus Stop Schedule & Delay Log](01-bus-delay-log/) | Transportation | CSV import, SQL `GROUP BY`, Excel PivotTables | ⬜ Not started |
+| 01 | [Local Bus Stop Schedule & Delay Log](01-bus-delay-log/) | Transportation | CSV import, SQL `GROUP BY`, Excel PivotTables | ✅ Complete |
 | 02 | [Parking Lot Occupancy Tracker](02-parking-occupancy/) | Transportation | Pandas datetime handling, groupby aggregation | ⬜ Not started |
 | 03 | [Daily Residential Water Usage Report](03-water-usage-cleaning/) | Water Systems | Data hygiene: missing values, duplicates, outliers | ⬜ Not started |
 | 04 | [Water pH & Temperature Threshold Alerts](04-water-quality-alerts/) | Water Systems | Conditional logic, threshold flagging | ⬜ Not started |

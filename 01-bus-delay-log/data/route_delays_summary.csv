@@ -1,0 +1,4 @@
+route_id,avg_delay_min,arrivals_5min_late,logged_arrivals
+14,5.1,689,1403
+12,3.0,322,1420
+27,1.5,107,1416
