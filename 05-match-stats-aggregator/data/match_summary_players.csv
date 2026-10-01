@@ -1,0 +1,15 @@
+player,team,minutes_played,pass,tackle,shot,goal,save,foul,corner,pass_completion_pct
+S. Mensah,Harbor United,91,14,3,4,0,1,5,3,71.4
+F. Haddad,Harbor United,91,12,3,3,0,1,1,1,50.0
+A. Petrov,Harbor United,91,7,3,2,0,0,3,3,71.4
+G. Lindqvist,Harbor United,91,10,1,2,0,0,0,1,50.0
+N. Ito,Harbor United,91,10,2,2,0,0,1,1,90.0
+C. Dubois,Harbor United,91,10,2,1,0,1,3,1,70.0
+P. Alvarez,Harbor United,91,12,1,1,0,2,2,4,83.3
+D. Kimura,Riverside FC,91,13,4,2,1,0,2,4,76.9
+K. Adeyemi,Riverside FC,91,13,5,2,1,0,1,2,76.9
+T. Silva,Riverside FC,91,15,2,2,0,2,3,2,80.0
+J. Novak,Riverside FC,91,11,4,1,0,1,2,2,90.9
+L. Bennett,Riverside FC,91,18,2,1,0,0,0,2,88.9
+M. Okafor,Riverside FC,91,13,2,1,0,0,5,1,84.6
+R. Castellanos,Riverside FC,91,10,5,1,0,0,2,1,70.0

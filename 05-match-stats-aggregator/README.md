@@ -35,12 +35,12 @@ Event types: `pass`, `tackle`, `shot`, `goal`, `save`, `foul`, `corner`.
 
 ## Tasks
 
-- [ ] Load the JSON (stdlib `json` or `pandas.read_json`) and flatten `events` into a DataFrame
-- [ ] Event counts per player per type (pivot table)
-- [ ] Per team: total shots, total goals, pass completion rate (from `detail.outcome`)
-- [ ] Answer in code: top scorer, most passes, most tackles
-- [ ] Export `data/match_summary_players.csv` and print a short text report
-- [ ] Stretch: add minutes played per player (first/last event minute as an approximation)
+- [x] Load the JSON (stdlib `json` or `pandas.read_json`) and flatten `events` into a DataFrame
+- [x] Event counts per player per type (pivot table)
+- [x] Per team: total shots, total goals, pass completion rate (from `detail.outcome`)
+- [x] Answer in code: top scorer, most passes, most tackles
+- [x] Export `data/match_summary_players.csv` and print a short text report
+- [x] Stretch: add minutes played per player (first/last event minute as an approximation)
 
 ## Hints
 
@@ -54,4 +54,6 @@ events.groupby(["team", "player", "event_type"]).size().unstack(fill_value=0)
 
 ## Results
 
-(your findings here)
+From 300 raw events, **Riverside FC beat Harbor United 2–0** (goals from D. Kimura and K. Adeyemi) — but the shot count tells a different story: Harbor out-shot Riverside **15–10** (8 on target vs 5) and simply didn't convert. The real difference was ball retention: Riverside completed **81.7%** of their 93 passes against Harbor's 69.3% of 75, and won the tackle battle 24–15.
+
+Standouts: **K. Adeyemi** was Riverside's engine — 1 goal, 13 passes at 76.9%, and a match-high 5 tackles; **L. Bennett** led all passers (18, 88.9% complete); **N. Ito** was Harbor's cleanest distributor (90% completion) while **S. Mensah** did most of their shooting (4 shots) without reward. Full per-player sheet with minutes, event counts, and pass completion: `data/match_summary_players.csv`.
