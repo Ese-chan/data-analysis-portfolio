@@ -21,12 +21,12 @@ varied sizes, and varied file dates.
 
 ## Tasks
 
-- [ ] Walk `sample_cad_files/` with `os.scandir()` or `pathlib`
-- [ ] For each file record: filename, project code (parse it from the name), extension, size in KB, last modified date
-- [ ] Write the inventory to `cad_inventory.csv`
-- [ ] Print totals: number of files and total MB per extension
-- [ ] Stretch: write the same inventory to an Excel sheet with one tab per extension
-- [ ] Stretch: make the target folder a command-line argument (`python build_inventory.py <folder>`)
+- [x] Walk `sample_cad_files/` with `os.scandir()` or `pathlib`
+- [x] For each file record: filename, project code (parse it from the name), extension, size in KB, last modified date
+- [x] Write the inventory to `cad_inventory.csv`
+- [x] Print totals: number of files and total MB per extension
+- [x] Stretch: write the same inventory to an Excel sheet with one tab per extension (`cad_inventory.xlsx`, plus a Summary tab)
+- [x] Stretch: make the target folder a command-line argument (`python build_inventory.py <folder>`)
 
 ## Hints
 
@@ -44,4 +44,6 @@ Filenames follow `PROJECT-TYPE-###_description.ext`, e.g.
 
 ## Results
 
-(your findings here — file counts per project, largest file, etc.)
+The scan cataloged **18 files totaling 0.85 MB**: 6 PDFs and 6 Revit models dominate the count, with 4 DXFs and only 2 DWGs; by project, **Tunnel (TUN) and Water Treatment Plant (WTP) hold 6 files each**, Plant Layout (PLT) 4, and Bridge (BRG) just 2. The largest file is `WTP-PLN-013_deck_section.dxf` at 85.8 KB (modified 2024-11-13).
+
+Outputs: `cad_inventory.csv` (flat inventory: filename, project code, extension, KB, last-modified) and `cad_inventory.xlsx` (Summary tab with per-extension totals + one tab per extension, live SUM formulas). Re-run on any folder with `python build_inventory.py <folder>`.
